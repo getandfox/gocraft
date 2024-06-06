@@ -25,6 +25,7 @@ A Minecraft like game written in go, just for fun!
 
 
 ## Install
+客户端编译使用 go version 1.22 编译成功
 
 `go get github.com/icexin/gocraft`
 
